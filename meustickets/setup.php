@@ -27,7 +27,7 @@ function plugin_version_meustickets() {
     return array(
         'name'         => 'Meus Tickets',
         'version'      => PLUGIN_MEUSTICKETS_VERSION,
-        'author'       => 'Seu Nome',
+        'author'       => 'Adriano Marinho',
         'license'      => 'GPLv2+',
         'homepage'     => '',
         'requirements' => array(
