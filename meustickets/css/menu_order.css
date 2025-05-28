@@ -1,0 +1,8 @@
+/* Forçar ordem do menu via CSS */
+.navbar-nav li:has(a[href*="meustickets"]) {
+    order: 3 !important;
+}
+
+.navbar-nav li:has(a[href*="ticket"]) {
+    order: 2 !important;
+}
